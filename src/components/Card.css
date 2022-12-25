@@ -1,0 +1,14 @@
+.mainMontainer{
+    margin: 0;
+    padding: 0;
+   
+}
+.containerx{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    margin-top: 30px;
+}
